@@ -1,0 +1,1 @@
+[![](https://raw.githubusercontent.com/JotaJota96/firefox-newtab-icons/master/demo.png)
